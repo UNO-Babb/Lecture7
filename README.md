@@ -1,4 +1,4 @@
-# Lecture 7 - CYBR 2980
+# Lecture 7 - CIST 1600
 ## Objectives
 - Design with functions:
   - hiding redundancy, complexity

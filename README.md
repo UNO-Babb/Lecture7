@@ -271,7 +271,7 @@ def addEm(x, y, z):
   print(result)
   ```
   What does this function print?
-    - 25
-    - 5
-    - 125
-    - 32
+  - 25
+  - 5
+  - 125
+  - 32
